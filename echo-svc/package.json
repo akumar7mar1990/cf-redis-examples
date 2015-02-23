@@ -1,0 +1,12 @@
+{
+  "name": "echo-svc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "echo.js",
+  "dependencies": {
+    "redis": "^0.12.1"
+  },
+  "scripts": {
+    "start": "node echo.js"
+  }
+}

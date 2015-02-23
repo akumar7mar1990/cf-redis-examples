@@ -1,0 +1,12 @@
+{
+  "name": "rtt-svc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "redis": "^0.12.1",
+    "express": "^4.12.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
